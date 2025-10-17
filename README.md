@@ -16,3 +16,6 @@ Actualmente incluye 4 canciones sin derechos de ejemplo.
 - [Electron](https://www.electronjs.org/)
 - [Node.js](https://nodejs.org/)
 - HTML5 / CSS3 / JavaScript
+
+## Release
+- Hay un release del proyecto en este mismo repositorio que incluye un archivo comprimido para poder visualizarlo sin necesidad de descargar Node ni Electron.
